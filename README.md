@@ -20,6 +20,6 @@ I made a pcb with a shape of batman logo with the art of guns and roses and also
 - 1 	Push Button
 - 6 LEDs
 
-Made by `@Cyao` on slack :D
+Made by Saman
 
 Made as a part of http://solder.hackclub.com/!
